@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fewed
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning jango
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning svelte
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
