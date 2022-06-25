@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fewed
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning typescript, solidity
+- 🌱 I’m currently learning cosmwasm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
