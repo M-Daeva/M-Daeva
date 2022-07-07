@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Fewed
-- 👀 I’m interested in web3
+- 👋 Hi, I’m M. Daeva
+- 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
