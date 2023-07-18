@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M. Daeva
 - 👀 I’m interested in developing smart contracts, dApps, tools for Cosmos Ecosystem
-- 🔭 I’m currently working on [Starbound portfolio manager app](https://github.com/M-Daeva/starbound)
+- 🔭 I’m currently working on Flexible Finance
 - 📫 How to reach me - Discord: @M. Daeva #3933 (m.daeva)
 
 <!---
