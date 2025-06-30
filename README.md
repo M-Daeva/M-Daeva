@@ -1,7 +1,6 @@
 - 👋 Hi, I’m M. Daeva
-- 👀 I’m interested in developing smart contracts, dApps, tools for Cosmos Ecosystem
-- 🔭 I’m currently working on Flexible Finance
-- 📫 How to reach me - Discord: @M. Daeva #3933 (m.daeva)
+- 👀 I’m interested in developing smart contracts and dApps for Solana and Cosmos Ecosystems
+- 📫 How to reach me - Telegram: @m_daeva
 
 <!---
 M-Daeva/M-Daeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
