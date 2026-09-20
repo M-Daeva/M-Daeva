@@ -12,10 +12,10 @@ contract administration. Anchor by default, Pinocchio when the compute budget ma
   suite from scratch (contracts + off-chain)
 
 **Open source**
-- [Pinocchio](https://github.com/anza-xyz/pinocchio) — Token-2022 extensions interface (#330, #333)
-- LiteSVM test suite adopted in Turbin3 development (#6)
-- [Solana Kite](https://github.com/helius-labs/kite) — Rust ergonomics improvements (#2)
-- Pinocchio Solveil — on-chain password manager, showcase program
+- [Pinocchio](https://github.com/anza-xyz/pinocchio) — Token-2022 extensions interface ([#330](https://github.com/anza-xyz/pinocchio/pull/330), [#333](https://github.com/anza-xyz/pinocchio/pull/333))
+- [LiteSVM](https://github.com/LiteSVM/litesvm) test suite adopted in Turbin3 development ([#6](https://github.com/Turbin3/pinocchio-extensions/pull/6))
+- [Solana Kite](https://github.com/helius-labs/kite) — Rust ergonomics improvements ([#2](https://github.com/solanakite/kite-rust/pull/2))
+- [Pinocchio Solveil](https://github.com/M-Daeva/pinocchio-solveil) — on-chain password manager, showcase program
 
 **Stack:** Rust · Anchor · Pinocchio · LiteSVM · TypeScript · Web3.js · Kit
 
