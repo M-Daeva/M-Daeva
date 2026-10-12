@@ -19,7 +19,7 @@ contract administration. Anchor by default, Pinocchio when the compute budget ma
 
 **Stack:** Rust · Anchor · Pinocchio · LiteSVM · TypeScript · Web3.js · Kit
 
-📍 Kazakhstan (UTC+5) · Remote
+UTC+3 · Remote
 💬 Telegram [@m_daeva](https://t.me/m_daeva) · ✉️ embedmad@gmail.com
 
 **Available for contract work** — Solana program development, production hardening,
