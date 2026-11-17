@@ -11,10 +11,13 @@ administration. Anchor by default, Pinocchio when the compute budget matters.
 - Integrated Kamino Lending into [XPlace](https://x.place/), a Solana crypto-backed Visa card:
   hand-written CPI, partial account deserialization, klend built from source with a
   full-flow LiteSVM test suite
-- Migrated XPlace's lending integration from Drift to Kamino and took the protocol through
-  two FYEO audits (nothing above Low); wrote the TypeScript contract-interaction layer used by the backend
+- Migrated XPlace's lending integration from Drift to Kamino; wrote the TypeScript
+  contract-interaction layer used by the backend
+- 5 external security audits across two protocols: wrote the audited code and led remediation,
+  fixing 33 of 44 findings, including 2 Critical and all 4 High / Severe
+  - XPlace: two FYEO audits (Drift and Kamino integrations), nothing above Low
+  - Eclipse Fi: [BlockApex](https://github.com/BlockApex/Audit-Reports/blob/master/EclipseFi%20-%20Staking%20v2%20Final%20Audit%20Report.pdf), SCV-Security, [Resonance Security](https://github.com/ResonanceCybersecurity/audits/blob/main/CosmWasm%20Smart%20Contract%20Audits/Audit_Report_ECLP-EQN_FINAL_21.pdf)
 - Maintained a vesting contract holding $20M TVL; IDO contracts handling $400K in sales
-  and 2,000 participants per launch event
 - Designed [GopLend](https://github.com/cryptogopniks/GopLend), an NFT lending protocol
   with oracle staleness guards, share-based receipt tokens and a prioritized liquidation bid market
 
